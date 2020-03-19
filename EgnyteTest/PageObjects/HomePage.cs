@@ -1,17 +1,5 @@
-﻿using System;
-using OpenQA.Selenium;
+﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
-using EgnyteTest.WrapperFactory;
-using EgnyteTest.PageObjects;
-using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Firefox;
-using OpenQA.Selenium.IE;
-using OpenQA.Selenium.Edge;
-using OpenQA.Selenium.Support.UI;
-using OpenQA.Selenium.Support.Events;
-using NUnit.Framework;
-using System.Configuration;
-using EgnyteTest.Extensions;
 
 namespace EgnyteTest.PageObjects
 {

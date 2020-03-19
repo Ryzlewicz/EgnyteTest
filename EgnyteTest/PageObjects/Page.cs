@@ -1,5 +1,4 @@
-﻿using System;
-using EgnyteTest.WrapperFactory;
+﻿using EgnyteTest.WrapperFactory;
 using OpenQA.Selenium.Support.PageObjects;
 
 namespace EgnyteTest.PageObjects
